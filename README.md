@@ -19,5 +19,5 @@ I'm a passionate **Software Engineer** with experience in both **Frontend** and 
 
 ### 📫 Let's Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/fabian-espitia-sotelo/)
-- 🏗️ [Portfolio])(https://fabian-site.vercel.app/)
+- 🏗️ [Portfolio](https://fabian-site.vercel.app/)
 
